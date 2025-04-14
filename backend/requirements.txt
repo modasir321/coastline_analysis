@@ -1,0 +1,5 @@
+Flask
+flask-cors
+earthengine-api
+geopandas
+fiona
