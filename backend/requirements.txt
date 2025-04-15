@@ -3,3 +3,5 @@ flask-cors
 earthengine-api
 geopandas
 fiona
+shapely
+pyproj
